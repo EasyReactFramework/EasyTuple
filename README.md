@@ -1,3 +1,5 @@
+# The library is deprecated. Please move to https://github.com/meituan/EasyTuple
+
 # EasyTuple
 
 [![Build Status](https://travis-ci.org/EasyReactFramework/EasyTuple.svg?branch=master)](https://travis-ci.org/EasyReactFramework/EasyTuple)
